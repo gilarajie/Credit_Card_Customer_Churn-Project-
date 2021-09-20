@@ -1,7 +1,7 @@
 # Credit Card Customer Churn Prediction
 In this repository, My team and I build a machine learning model that is used to predict which customers will churn on credit card services. we use the BankChurn.csv dataset obtained from Kaggle.
 (link: https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv) 
-The case in this dataset consists of 10,000 customers specifying age, salary, marital status, credit card limit, credit card category, etc. There are almost 18 features. There are 16.07% for the negative class of customers who have churn which makes a binary classification with an unbalanced proportion of target variables. In this dataset there are several features that are used as parameters to make predictions, including:
+  The case in this dataset consists of 10,127 customers specifying age, salary, marital status, credit card limit, credit card category, etc. There are almost 18 features. There are 16.07% for the negative class of customers who have churn which makes a binary classification with an unbalanced proportion of target variables. In this dataset there are several features that are used as parameters to make predictions, including:
 *	***CLIENTNUM***: customer account number.
 *	***Attrition_Flag***: customer status (Existing and Attrited).
 *	***Customer_Age***: age of the customer.
